@@ -1,0 +1,94 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Built-By: genie.technology.packaging
+Bundle-SymbolicName: org.eclipse.epp.package.standard;singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/epp/or
+ g.eclipse.epp.packages.git;path="packages/org.eclipse.epp.package.sta
+ ndard";commitId=75ff8f2b1680c95e0ccd8c203942475abc58b066
+Require-Bundle: org.eclipse.platform,org.eclipse.equinox.app,org.eclip
+ se.ui;bundle-version="[3.2.0,4.0.0)",org.eclipse.help.ui;bundle-versi
+ on="[4.0.0,5.0.0)",org.eclipse.help.base;bundle-version="[4.0.0,5.0.0
+ )",org.eclipse.ui.cheatsheets;bundle-version="[3.2.0,4.0.0)",org.ecli
+ pse.ui.ide.application;bundle-version="[1.0.0,4.4.0)"
+Bundle-Version: 4.4.0.20140612-0500
+Build-Jdk: 1.7.0_51
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: eclipse32.png
+SHA1-Digest: SeFX+7Z9UsaOwsNiKncVQvrY8BE=
+
+Name: disabled_book.css
+SHA1-Digest: x3/plDo/tiH3FDASeesyGUCF4gM=
+
+Name: intro-eclipse.png
+SHA1-Digest: KHEP4mXvQIPxvHC4lKYFqVcOZcw=
+
+Name: narrow_book.css
+SHA1-Digest: /86jkfITUYJB4OWlA3NEx9IN6zo=
+
+Name: about.ini
+SHA1-Digest: 0TjZugxjg3ha/FnKCstLlQtgw9I=
+
+Name: eclipse48.png
+SHA1-Digest: 9NKKkYyVxwpY8xkfIglPWy0I9PA=
+
+Name: about.mappings
+SHA1-Digest: EDXjun3zLa/ezbr4J7cWLEDfNQc=
+
+Name: eclipse16.png
+SHA1-Digest: GcSxMviWHMy3Z+GhtS1447jrPpg=
+
+Name: eclipse256.png
+SHA1-Digest: 2iMSyzvz811LVPbah1pUUlaVmAo=
+
+Name: macosx_narrow_book.css
+SHA1-Digest: jjHm301H2huNyXiXwJbHzgWn0K4=
+
+Name: eppfeature32.png
+SHA1-Digest: SeFX+7Z9UsaOwsNiKncVQvrY8BE=
+
+Name: about.html
+SHA1-Digest: /CETf4WmV+BiPhUbrICU0RE3BVM=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.standard/
+ pom.properties
+SHA1-Digest: YqY8/IAh9Za+UKYcNVjv1Y00M3c=
+
+Name: plugin.properties
+SHA1-Digest: FM5+ouAKal05kH8rNE1xdzHvecI=
+
+Name: eclipse_lg.png
+SHA1-Digest: dLplZrr7Z5kcTEfjJV4ReEkuk5M=
+
+Name: about.properties
+SHA1-Digest: nwPISlzhgtwNjSGXnsJd62viY10=
+
+Name: helpData.xml
+SHA1-Digest: ZR1pFHw9xoMSs25sZ0MO6v4/asI=
+
+Name: plugin_customization.properties
+SHA1-Digest: MrQ8crKtLhmApcHy3MtzuLPnS8g=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.standard/
+ pom.xml
+SHA1-Digest: Kjwj6NYU+/0F51L8AeWcNezSxHk=
+
+Name: plugin.xml
+SHA1-Digest: S83v6CazexO0bbyX7Y2F44CEyuw=
+
+Name: plugin_customization.ini
+SHA1-Digest: /bHgpmo7zHFtjoxD4g+tj743GHM=
+
+Name: book.css
+SHA1-Digest: dsGbqnJH+kPrO0L++3y5oeGM0F4=
+
+Name: introData.xml
+SHA1-Digest: hRUHRieYHfLpbEmuEpkQGBDq/fU=
+
